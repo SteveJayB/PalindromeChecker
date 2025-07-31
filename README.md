@@ -1,1 +1,3 @@
-This program checks whether user text input is a Palindrome by taking user text, removing non-alphanumeric characters, removing white spaces, reversing the text, and comparing it to a forward version. Certification project number 1 for the JavaScript Algorithms and Data Structures certificate provided by freeCodeCamp.
+This program checks whether user text input is a Palindrome by taking user text, removing non-alphanumeric characters, removing white spaces, reversing the text, and comparing it to a forward version.
+
+Certification project number 1 for the JavaScript Algorithms and Data Structures certificate provided by freeCodeCamp.
